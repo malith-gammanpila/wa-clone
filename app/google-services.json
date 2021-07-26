@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "723953930202",
+    "project_id": "wa-clone-2b5b2",
+    "storage_bucket": "wa-clone-2b5b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723953930202:android:d2b630d6f7df596e86fae3",
+        "android_client_info": {
+          "package_name": "com.fidenz.whatsappclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723953930202-hji92r1nvmuinv2ejdhlndov7pa0v022.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC885f3hXVE41f6CVyxtQXH8EKWhGubZbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723953930202-hji92r1nvmuinv2ejdhlndov7pa0v022.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
